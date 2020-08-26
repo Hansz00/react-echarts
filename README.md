@@ -11,7 +11,7 @@ $ npm install rc-echarts
 
 ###用法一
 
-完全和echarts一致，将echarts的options传给组件。通过onReady能获取到echarts对象，从而进行绑定事件等一系列操作。
+完全和Apache ECharts (incubating)一致，将echarts的options传给组件。通过onReady能获取到echarts对象，从而进行绑定事件等一系列操作。
 
 ```js
 import Chart from 'rc-echarts';
